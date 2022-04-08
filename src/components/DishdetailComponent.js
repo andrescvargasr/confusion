@@ -43,9 +43,7 @@ class DishDetail extends Component {
                     <CardBody>
                         <CardTitle heading><h4>Comments</h4></CardTitle>
                         <CardText>
-                            
-                                {comment}
-                            
+                            {comment}
                         </CardText>
                     </CardBody>
                 </Card>
