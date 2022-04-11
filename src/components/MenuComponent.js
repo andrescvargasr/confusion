@@ -2,10 +2,10 @@ import React, { Component } from 'react';
 import { Card, CardBody, CardImg, CardImgOverlay, CardText, CardTitle } from 'reactstrap';
 
 class Menu extends Component {
+
     constructor(props) {
         super(props);
     }
-
 
     render() {
         const menu = this.props.dishes.map((dish) => {

@@ -1,0 +1,7 @@
+--2022-04-11 12:50:59--  https://update.code.visualstudio.com/commit:8dfae7a5cd50421d10cd99cb873990460525a898/server-linux-x64/stable
+Resolving update.code.visualstudio.com (update.code.visualstudio.com)... 40.64.128.224
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|40.64.128.224|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://az764295.vo.msecnd.net/stable/8dfae7a5cd50421d10cd99cb873990460525a898/vscode-server-linux-x64.tar.gz [following]
+--2022-04-11 12:51:01--  https://az764295.vo.msecnd.net/stable/8dfae7a5cd50421d10cd99cb873990460525a898/vscode-server-linux-x64.tar.gz
+Resolving az764295.vo.msecnd.net (az764295.vo.msecnd.net)... 
