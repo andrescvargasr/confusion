@@ -1,10 +1,12 @@
 import { Navbar, NavbarBrand } from 'reactstrap';
+import Home from './HomeComponent';
 import Menu from './MenuComponent';
 import { Component } from 'react';
 import { DISHES } from '../shared/dishes';
 import DishDetail from './DishdetailComponent';
 import Header from './HeaderComponent';
 import Footer from './FooterComponent';
+import { Switch, Route, Redirect } from "react-router-dom";
 
 class Main extends Component {
 
