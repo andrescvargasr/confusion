@@ -1,7 +1,8 @@
-import React from 'react';
+import React, { Component } from 'react';
 import { Card, CardImg, CardImgOverlay, CardTitle, Breadcrumb, BreadcrumbItem } from 'reactstrap';
 import { Link } from "react-router-dom";
 
+// Implementing Functional Component
 function RenderMenuItem({ dish }) {
   return (
     <Card>
@@ -15,6 +16,7 @@ function RenderMenuItem({ dish }) {
   );
 }
 
+// Other way to implementing Functional Component
 const Menu = (props) => {
   const menu = props.dishes.map((dish) => {
       return (
